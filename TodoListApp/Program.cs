@@ -15,6 +15,7 @@ namespace TodoListApp
             int yearOfBirth = int.Parse(Console.ReadLine());
             int age = 2026 - yearOfBirth;
             Console.WriteLine("Добавлен пользователь "+ name + " " + lastname + ", возраст- " + age.ToString());
+            //Боярова
         }
     }
 }
