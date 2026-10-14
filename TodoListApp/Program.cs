@@ -17,6 +17,7 @@ namespace TodoListApp
             Console.WriteLine("Добавлен пользователь "+ name + " " + lastname + ", возраст- " + age.ToString());
             //Боярова
             // коммментарий 
+            //kjo
         }
     }
 }
