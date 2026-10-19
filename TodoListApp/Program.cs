@@ -19,7 +19,7 @@ namespace TodoListApp
             // коммментарий 
             //kjo
             //мя
-        string[]todos = new string[2]
+        string[]todos = new string[2];
         int count =0;
         while (true)
         {
